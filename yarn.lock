@@ -608,10 +608,10 @@
     "@octokit/types" "^6.1.0"
     deprecation "^2.3.1"
 
-"@octokit/plugin-throttling@^3.3.4":
-  version "3.3.4"
-  resolved "https://registry.yarnpkg.com/@octokit/plugin-throttling/-/plugin-throttling-3.3.4.tgz#770b164cd116be9ff18815899bb5c9a2dd6be74f"
-  integrity sha512-cjMoonVhe2wb6iLRZltDzLF2X6udZPam+Rgr9SbvENda1GO5d38qrqByZcrDZXVzFPWOUmY8icofM4Puae/F5g==
+"@octokit/plugin-throttling@^3.5.0":
+  version "3.5.0"
+  resolved "https://registry.yarnpkg.com/@octokit/plugin-throttling/-/plugin-throttling-3.5.0.tgz#78178a8a6a3bef5f437df8a11dce1193d4311fba"
+  integrity sha512-xwUQYG2FFVGC/jf+YE4vCh2Nzi4kBRthuDlmYSwz6G8RXurl8i3KNxygKFaXIowgjghxZswxT9fNgIyROuHAWg==
   dependencies:
     "@octokit/types" "^6.0.1"
     bottleneck "^2.15.3"
